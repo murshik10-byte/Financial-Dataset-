@@ -29,7 +29,7 @@ Extract insights and trends from the data
 . dashboard_preview.png
 .README.md
 
-. Dataset Description
+##. Dataset Description
 
 Source: (Mention source – Kaggle / Company / Sample data / etc.)
 
