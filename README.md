@@ -1,15 +1,15 @@
 # Financial-Dataset-
 
-. Project Title
+##. Project Title
 
 (Example: Financial Data Analysis using Power BI)
 
-.  Overview
+##.  Overview
 
 This project focuses on analyzing and visualizing data to gain meaningful insights.
 The dataset is cleaned, transformed, and visualized using industry-standard tools to support data-driven decision-making.
 
-. Objectives
+##. Objectives
 
 Understand the structure and quality of the dataset
 
@@ -53,7 +53,7 @@ Profit
 
 (Modify columns as per your dataset)
 
-. Data Cleaning Steps
+##. Data Cleaning Steps
 
 Removed duplicate records
 
@@ -63,7 +63,7 @@ Corrected data types
 
 Standardized column names
 
-. Tools & Technologies Used
+##. Tools & Technologies Used
 
 Power BI – Data visualization & dashboard creation
 
@@ -71,7 +71,7 @@ Excel / CSV – Data storage
 
 SQL / Python (optional) – Data preprocessing
 
-. Dashboard & Visuals
+##. Dashboard & Visuals
 
 The Power BI dashboard includes:
 
@@ -83,7 +83,7 @@ Line chart for trends
 
 Slicers for interactive filtering
 
-. Key Insights
+##. Key Insights
 
 Identified high-revenue categories
 
@@ -93,7 +93,7 @@ Detected cost-intensive areas
 
 Improved decision-making through visual analysis
 
-. How to Use
+##. How to Use
 
 Clone the repository
 
@@ -106,11 +106,11 @@ Refresh the data if required
 
 Explore the dashboard using filters
 
-. Preview
+##. Preview
 
 (Add dashboard screenshots here)
 
-. Future Improvements
+##. Future Improvements
 
 Add more KPIs
 
@@ -120,15 +120,15 @@ Integrate SQL database
 
 Enhance visual design
 
-. Contribution
+##. Contribution
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-. License
+##. License
 
 This project is licensed under the MIT License.
 
-. Author
+##. Author
 
 Murshi K
