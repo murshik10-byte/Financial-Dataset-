@@ -97,8 +97,6 @@ Improved decision-making through visual analysis
 
 Clone the repository
 
-git clone https://github.com/your-username/project-name.git
-
 
 Open the .pbix file using Power BI Desktop
 
