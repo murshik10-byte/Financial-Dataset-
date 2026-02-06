@@ -1,15 +1,15 @@
 # Financial-Dataset-
 
-📊 Project Title
+. Project Title
 
 (Example: Financial Data Analysis using Power BI)
 
-📌 Overview
+.  Overview
 
 This project focuses on analyzing and visualizing data to gain meaningful insights.
 The dataset is cleaned, transformed, and visualized using industry-standard tools to support data-driven decision-making.
 
-🎯 Objectives
+. Objectives
 
 Understand the structure and quality of the dataset
 
